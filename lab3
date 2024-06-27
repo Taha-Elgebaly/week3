@@ -87,7 +87,7 @@ values('Taha', 'Elgebaly', 222002, '2002/02/02', 'Mansoura', 'M', 3000, 112233, 
 
 ---2
 insert into Employee
-values('Mostafa', 'Edress', 102660, '2002/08/01', 'mansoura', 'M', NULL, NULL, 30);
+values('Mostafa', 'Edress', 102660, '2002/08/01', 'Mansoura', 'M', NULL, NULL, 30);
 
 
 ---3
